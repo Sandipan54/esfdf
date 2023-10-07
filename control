@@ -1,0 +1,8 @@
+Package: virus
+Name: Virus PubgM
+Depends: mobilesubstrate
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Virus for PubgM!
+Maintainer:  D79oM ~ 🤍
+Author: D79oM ~ 🤍
